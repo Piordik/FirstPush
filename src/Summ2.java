@@ -1,5 +1,5 @@
 import java.util.Scanner; //Scanner1
-import java.util.regex.Pattern;
+import java.util.regex.Pattern; //P
 import java.util.regex.Matcher;
 
 public class Summ2 {
