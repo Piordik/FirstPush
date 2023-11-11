@@ -1,4 +1,4 @@
-public class Main { //Main
+public class Main { //Main1
 
     public static void main(String[] args) {
         final int three = 3;
